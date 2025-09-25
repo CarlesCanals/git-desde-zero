@@ -1,10 +1,9 @@
-# Curso de Git y GitHub – Completo en 1 Hora 🚀
+# Curs de Git y GitHub – Complet en 1 Hora 🚀
 
-Bienvenido a este repositorio donde aprenderás Git y GitHub desde cero de forma práctica. Ideal para estudiantes, programadores y creadores de contenido que quieren comenzar a trabajar como profesionales usando control de versiones.
+Benvingut a aquest repositori on aprendràs Git i GitHub des de zero de forma pràctica. Ideal per a estudiants, programadors i creadors de contingut que volen començar a treballar com a professionals usant control de versions.
 
-📺 **Ver el curso**: [Enlace al video de YouTube](https://youtu.be/vd7xpZbe3GM)
 
-## Contenido del curso
+## Contingut del curs
 
 1. [Instalación de Git](secciones/01-instalacion/comandos.md)
 2. [Crear un repositorio local](secciones/02-repo-local/comandos.md)
@@ -14,10 +13,3 @@ Bienvenido a este repositorio donde aprenderás Git y GitHub desde cero de forma
 6. [Pull Requests en GitHub](secciones/06-pull-request/pasos.md)
 7. [Buenas prácticas](secciones/07-buenas-practicas/recomendaciones.md)
 
-## Cómo clonar este repositorio
-
-```bash
-git clone git@github.com:JefeNacho/git-desde-cero.git
-```
-
-Espero te sirva!
