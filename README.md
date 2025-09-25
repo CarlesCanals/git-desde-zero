@@ -1,4 +1,4 @@
-# Curs de Git y GitHub – Complet en 1 Hora 🚀
+# Curs de Git i GitHub – Complet en 1 Hora 🚀
 
 Benvingut a aquest repositori on aprendràs Git i GitHub des de zero de forma pràctica. Ideal per a estudiants, programadors i creadors de contingut que volen començar a treballar com a professionals usant control de versions.
 
